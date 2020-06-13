@@ -1,6 +1,6 @@
-bug from remote co-workers
-new function1 added
-New text from online workers!
+bug from remote co-workers  
+new function1 added  
+New text from online workers!  
 i did change on my computer!!!
 
 # 中文文案排版指北
