@@ -1,3 +1,4 @@
+new function1 added
 New text from online workers!
 i did change on my computer!!!
 
